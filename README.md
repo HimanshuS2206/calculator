@@ -1,6 +1,6 @@
 # Calculator
 
-A simple Python calculator with basic arithmatic operations.
+A simple Python calculator with basic arithmetic operations.
 
 ## Usage
 
@@ -17,5 +17,5 @@ divide(10, 2)   # 5.0
 
 - `add(a, b)` – adds two numbers
 - `subtract(a, b)` – subtracts b from a
-- `multiply(a, b)` – multiplys two numbers
+- `multiply(a, b)` – multiplies two numbers
 - `divide(a, b)` – divides a by b (raises ValueError if b is 0)
